@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Maciej/CLionProjects/RPG2/FightStrategy.cpp
+FightStrategy.h
+C:/Users/Maciej/CLionProjects/RPG2/FightStrategy.h
+
+C:/Users/Maciej/CLionProjects/RPG2/FightStrategy.h
+random
+-
+
+C:/Users/Maciej/CLionProjects/RPG2/main.cpp
+iostream
+-
+FightStrategy.h
+C:/Users/Maciej/CLionProjects/RPG2/FightStrategy.h
+
