@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RPG2">
-				<Option output="C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/RPG2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug"/>
+				<Option output="C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/RPG2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 RPG2"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 RPG2"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RPG2/fast">
-				<Option output="C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/RPG2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug"/>
+				<Option output="C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/RPG2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,67 +53,73 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 RPG2/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 RPG2/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPG2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Maciej/CLionProjects/RPGC-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/Character.cpp">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Character.cpp">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/Character.h">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Character.h">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/FightStrategy.cpp">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/FightStrategy.cpp">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/FightStrategy.h">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/FightStrategy.h">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/Game.cpp">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Game.cpp">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/Game.h">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Game.h">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/Item.cpp">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Item.cpp">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/Item.h">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Item.h">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/Location.cpp">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Location.cpp">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/Location.h">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Location.h">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/main.cpp">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Statistics.cpp">
 			<Option target="RPG2"/>
 		</Unit>
-		<Unit filename="C:/Users/Maciej/CLionProjects/RPG2/CMakeLists.txt">
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/Statistics.h">
+			<Option target="RPG2"/>
+		</Unit>
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/main.cpp">
+			<Option target="RPG2"/>
+		</Unit>
+		<Unit filename="C:/Users/Maciej/CLionProjects/RPGC-/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

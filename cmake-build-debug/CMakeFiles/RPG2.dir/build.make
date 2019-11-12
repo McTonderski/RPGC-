@@ -42,10 +42,10 @@ RM = C:\Users\Maciej\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Maciej\CLionProjects\RPG2
+CMAKE_SOURCE_DIR = C:\Users\Maciej\CLionProjects\RPGC-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/RPG2.dir/depend.make
@@ -58,81 +58,94 @@ include CMakeFiles/RPG2.dir/flags.make
 
 CMakeFiles/RPG2.dir/main.cpp.obj: CMakeFiles/RPG2.dir/flags.make
 CMakeFiles/RPG2.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RPG2.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\main.cpp.obj -c C:\Users\Maciej\CLionProjects\RPG2\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RPG2.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\main.cpp.obj -c C:\Users\Maciej\CLionProjects\RPGC-\main.cpp
 
 CMakeFiles/RPG2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RPG2.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPG2\main.cpp > CMakeFiles\RPG2.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPGC-\main.cpp > CMakeFiles\RPG2.dir\main.cpp.i
 
 CMakeFiles/RPG2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RPG2.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPG2\main.cpp -o CMakeFiles\RPG2.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPGC-\main.cpp -o CMakeFiles\RPG2.dir\main.cpp.s
 
 CMakeFiles/RPG2.dir/Character.cpp.obj: CMakeFiles/RPG2.dir/flags.make
 CMakeFiles/RPG2.dir/Character.cpp.obj: ../Character.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RPG2.dir/Character.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Character.cpp.obj -c C:\Users\Maciej\CLionProjects\RPG2\Character.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RPG2.dir/Character.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Character.cpp.obj -c C:\Users\Maciej\CLionProjects\RPGC-\Character.cpp
 
 CMakeFiles/RPG2.dir/Character.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RPG2.dir/Character.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPG2\Character.cpp > CMakeFiles\RPG2.dir\Character.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPGC-\Character.cpp > CMakeFiles\RPG2.dir\Character.cpp.i
 
 CMakeFiles/RPG2.dir/Character.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RPG2.dir/Character.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPG2\Character.cpp -o CMakeFiles\RPG2.dir\Character.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPGC-\Character.cpp -o CMakeFiles\RPG2.dir\Character.cpp.s
 
 CMakeFiles/RPG2.dir/Item.cpp.obj: CMakeFiles/RPG2.dir/flags.make
 CMakeFiles/RPG2.dir/Item.cpp.obj: ../Item.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RPG2.dir/Item.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Item.cpp.obj -c C:\Users\Maciej\CLionProjects\RPG2\Item.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RPG2.dir/Item.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Item.cpp.obj -c C:\Users\Maciej\CLionProjects\RPGC-\Item.cpp
 
 CMakeFiles/RPG2.dir/Item.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RPG2.dir/Item.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPG2\Item.cpp > CMakeFiles\RPG2.dir\Item.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPGC-\Item.cpp > CMakeFiles\RPG2.dir\Item.cpp.i
 
 CMakeFiles/RPG2.dir/Item.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RPG2.dir/Item.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPG2\Item.cpp -o CMakeFiles\RPG2.dir\Item.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPGC-\Item.cpp -o CMakeFiles\RPG2.dir\Item.cpp.s
 
 CMakeFiles/RPG2.dir/Location.cpp.obj: CMakeFiles/RPG2.dir/flags.make
 CMakeFiles/RPG2.dir/Location.cpp.obj: ../Location.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/RPG2.dir/Location.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Location.cpp.obj -c C:\Users\Maciej\CLionProjects\RPG2\Location.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/RPG2.dir/Location.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Location.cpp.obj -c C:\Users\Maciej\CLionProjects\RPGC-\Location.cpp
 
 CMakeFiles/RPG2.dir/Location.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RPG2.dir/Location.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPG2\Location.cpp > CMakeFiles\RPG2.dir\Location.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPGC-\Location.cpp > CMakeFiles\RPG2.dir\Location.cpp.i
 
 CMakeFiles/RPG2.dir/Location.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RPG2.dir/Location.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPG2\Location.cpp -o CMakeFiles\RPG2.dir\Location.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPGC-\Location.cpp -o CMakeFiles\RPG2.dir\Location.cpp.s
 
 CMakeFiles/RPG2.dir/Game.cpp.obj: CMakeFiles/RPG2.dir/flags.make
 CMakeFiles/RPG2.dir/Game.cpp.obj: ../Game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/RPG2.dir/Game.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Game.cpp.obj -c C:\Users\Maciej\CLionProjects\RPG2\Game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/RPG2.dir/Game.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Game.cpp.obj -c C:\Users\Maciej\CLionProjects\RPGC-\Game.cpp
 
 CMakeFiles/RPG2.dir/Game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RPG2.dir/Game.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPG2\Game.cpp > CMakeFiles\RPG2.dir\Game.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPGC-\Game.cpp > CMakeFiles\RPG2.dir\Game.cpp.i
 
 CMakeFiles/RPG2.dir/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RPG2.dir/Game.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPG2\Game.cpp -o CMakeFiles\RPG2.dir\Game.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPGC-\Game.cpp -o CMakeFiles\RPG2.dir\Game.cpp.s
 
 CMakeFiles/RPG2.dir/FightStrategy.cpp.obj: CMakeFiles/RPG2.dir/flags.make
 CMakeFiles/RPG2.dir/FightStrategy.cpp.obj: ../FightStrategy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/RPG2.dir/FightStrategy.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\FightStrategy.cpp.obj -c C:\Users\Maciej\CLionProjects\RPG2\FightStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/RPG2.dir/FightStrategy.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\FightStrategy.cpp.obj -c C:\Users\Maciej\CLionProjects\RPGC-\FightStrategy.cpp
 
 CMakeFiles/RPG2.dir/FightStrategy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RPG2.dir/FightStrategy.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPG2\FightStrategy.cpp > CMakeFiles\RPG2.dir\FightStrategy.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPGC-\FightStrategy.cpp > CMakeFiles\RPG2.dir\FightStrategy.cpp.i
 
 CMakeFiles/RPG2.dir/FightStrategy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RPG2.dir/FightStrategy.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPG2\FightStrategy.cpp -o CMakeFiles\RPG2.dir\FightStrategy.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPGC-\FightStrategy.cpp -o CMakeFiles\RPG2.dir\FightStrategy.cpp.s
+
+CMakeFiles/RPG2.dir/Statistics.cpp.obj: CMakeFiles/RPG2.dir/flags.make
+CMakeFiles/RPG2.dir/Statistics.cpp.obj: ../Statistics.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/RPG2.dir/Statistics.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RPG2.dir\Statistics.cpp.obj -c C:\Users\Maciej\CLionProjects\RPGC-\Statistics.cpp
+
+CMakeFiles/RPG2.dir/Statistics.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RPG2.dir/Statistics.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Maciej\CLionProjects\RPGC-\Statistics.cpp > CMakeFiles\RPG2.dir\Statistics.cpp.i
+
+CMakeFiles/RPG2.dir/Statistics.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RPG2.dir/Statistics.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Maciej\CLionProjects\RPGC-\Statistics.cpp -o CMakeFiles\RPG2.dir\Statistics.cpp.s
 
 # Object files for target RPG2
 RPG2_OBJECTS = \
@@ -141,7 +154,8 @@ RPG2_OBJECTS = \
 "CMakeFiles/RPG2.dir/Item.cpp.obj" \
 "CMakeFiles/RPG2.dir/Location.cpp.obj" \
 "CMakeFiles/RPG2.dir/Game.cpp.obj" \
-"CMakeFiles/RPG2.dir/FightStrategy.cpp.obj"
+"CMakeFiles/RPG2.dir/FightStrategy.cpp.obj" \
+"CMakeFiles/RPG2.dir/Statistics.cpp.obj"
 
 # External object files for target RPG2
 RPG2_EXTERNAL_OBJECTS =
@@ -152,11 +166,12 @@ RPG2.exe: CMakeFiles/RPG2.dir/Item.cpp.obj
 RPG2.exe: CMakeFiles/RPG2.dir/Location.cpp.obj
 RPG2.exe: CMakeFiles/RPG2.dir/Game.cpp.obj
 RPG2.exe: CMakeFiles/RPG2.dir/FightStrategy.cpp.obj
+RPG2.exe: CMakeFiles/RPG2.dir/Statistics.cpp.obj
 RPG2.exe: CMakeFiles/RPG2.dir/build.make
 RPG2.exe: CMakeFiles/RPG2.dir/linklibs.rsp
 RPG2.exe: CMakeFiles/RPG2.dir/objects1.rsp
 RPG2.exe: CMakeFiles/RPG2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable RPG2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable RPG2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\RPG2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -169,6 +184,6 @@ CMakeFiles/RPG2.dir/clean:
 .PHONY : CMakeFiles/RPG2.dir/clean
 
 CMakeFiles/RPG2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Maciej\CLionProjects\RPG2 C:\Users\Maciej\CLionProjects\RPG2 C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles\RPG2.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Maciej\CLionProjects\RPGC- C:\Users\Maciej\CLionProjects\RPGC- C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles\RPG2.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/RPG2.dir/depend
 

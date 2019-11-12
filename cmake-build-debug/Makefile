@@ -47,10 +47,10 @@ RM = C:\Users\Maciej\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Maciej\CLionProjects\RPG2
+CMAKE_SOURCE_DIR = C:\Users\Maciej\CLionProjects\RPGC-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Maciej\CLionProjects\RPG2\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Maciej\CLionProjects\RPGC-\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -257,6 +257,33 @@ Location.cpp.s:
 	$(MAKE) -f CMakeFiles\RPG2.dir\build.make CMakeFiles/RPG2.dir/Location.cpp.s
 .PHONY : Location.cpp.s
 
+Statistics.obj: Statistics.cpp.obj
+
+.PHONY : Statistics.obj
+
+# target to build an object file
+Statistics.cpp.obj:
+	$(MAKE) -f CMakeFiles\RPG2.dir\build.make CMakeFiles/RPG2.dir/Statistics.cpp.obj
+.PHONY : Statistics.cpp.obj
+
+Statistics.i: Statistics.cpp.i
+
+.PHONY : Statistics.i
+
+# target to preprocess a source file
+Statistics.cpp.i:
+	$(MAKE) -f CMakeFiles\RPG2.dir\build.make CMakeFiles/RPG2.dir/Statistics.cpp.i
+.PHONY : Statistics.cpp.i
+
+Statistics.s: Statistics.cpp.s
+
+.PHONY : Statistics.s
+
+# target to generate assembly for a file
+Statistics.cpp.s:
+	$(MAKE) -f CMakeFiles\RPG2.dir\build.make CMakeFiles/RPG2.dir/Statistics.cpp.s
+.PHONY : Statistics.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -308,6 +335,9 @@ help:
 	@echo ... Location.obj
 	@echo ... Location.i
 	@echo ... Location.s
+	@echo ... Statistics.obj
+	@echo ... Statistics.i
+	@echo ... Statistics.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

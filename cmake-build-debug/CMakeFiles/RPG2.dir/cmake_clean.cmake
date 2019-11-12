@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/RPG2.dir/Game.cpp.obj"
   "CMakeFiles/RPG2.dir/Item.cpp.obj"
   "CMakeFiles/RPG2.dir/Location.cpp.obj"
+  "CMakeFiles/RPG2.dir/Statistics.cpp.obj"
   "CMakeFiles/RPG2.dir/main.cpp.obj"
   "RPG2.exe"
   "RPG2.exe.manifest"
